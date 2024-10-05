@@ -76,8 +76,6 @@ However, there are several areas for future enhancements:
 -  **Reduce Blue Ticks**: Blue Tick ( ![](https://checkstyle.org/images/ok_blue.png) ) beside modules in coverage table indicates that module is not able to fully implement the rule, reduce such Blue Ticks by improving the implementation of the rule.
 
 ---
-****************
-
 
 ### Code Contributions
 
