@@ -11,7 +11,7 @@
 
 
 
-### **Organisation**: [Checkstyle](https://github.com/checkstyle)
+### **Organization**: [Checkstyle](https://github.com/checkstyle)
 
 
 
@@ -87,9 +87,9 @@ However, there are several areas for future enhancements:
 
 - All PRs related to creating `InputFormattedXxxxx` input files can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+%2215218%22+in%3Atitle+).
 
-- My work on this project is part of Checkstyle 10.18.0, 10.18.1, 10.18.2 release.
+- My work on this project is part of Checkstyle 10.18.0, 10.18.1, 10.18.2, 10.19.0 release.
 
-The release notes can be found here: [10.18.0](https://checkstyle.org/releasenotes.html#Release_10.18.0), [10.18.1](https://checkstyle.org/releasenotes.html#Release_10.18.1), [10.18.2](https://checkstyle.org/releasenotes.html#Release_10.18.2).
+The release notes can be found here: [10.18.0](https://checkstyle.org/releasenotes.html#Release_10.18.0), [10.18.1](https://checkstyle.org/releasenotes.html#Release_10.18.1), [10.18.2](https://checkstyle.org/releasenotes.html#Release_10.18.2), [10.19.0](https://checkstyle.org/releasenotes.html#Release_10.19.0).
 
 - All my contributions to checkstyle can be found [here](https://github.com/checkstyle/checkstyle/pulls/Zopsss).
 - All issues opened by me can be found [here](https://github.com/checkstyle/checkstyle/issues/created_by/Zopsss).
